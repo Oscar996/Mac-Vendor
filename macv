@@ -8,4 +8,4 @@ then
 fi
 
 GET_VDR=`curl -s https://api.macvendors.com/$1`
-echo $
+echo $GET_VDR
